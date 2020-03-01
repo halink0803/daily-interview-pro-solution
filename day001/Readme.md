@@ -13,7 +13,7 @@ Here is the function signature as a starting point (in Python):
 ### Definition for singly-linked list.
 
 ```python
-class ListNode(object):
+class ListNo  de(object):
   def __init__(self, x):
     self.val = x
     self.next = None
